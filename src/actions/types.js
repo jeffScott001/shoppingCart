@@ -1,0 +1,7 @@
+export const FETCH_DATA = "FETCH_DATA";
+export const SORTED = "SORTED";
+export const CART_VISIBILITY = "CART_VISIBILITY";
+export const SELECTED_ITEMS = "SELECTED_ITEMS";
+export const NUMBER_SELECTED_ITEMS = "NUMBER_SELECTED_ITEMS";
+export const REMOVE_ITEM = "REMOVE_ITEM";
+export const MORE_DETAILS = "MORE_DETAILS";
